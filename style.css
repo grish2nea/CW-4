@@ -1,0 +1,32 @@
+h1 {
+    background-color:blue;
+    text-align:center;
+    font-style: bold;
+}
+.visible {
+    visibility: visible;
+}
+.hidden {
+    visibility: hidden;
+}
+.op_1 {
+    opacity: 1;
+}
+.op_05 {
+    opacity: 0.5;
+}
+.op_0 {
+    opacity: 0;
+}
+.none {
+    display: none;
+    font-weight: bolder;
+}
+.inline {
+    display: inline;
+    font-weight: bolder;
+}
+.block {
+    display: block;
+    font-weight: bolder;
+}
